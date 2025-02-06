@@ -1,0 +1,20 @@
+HuBiCEM License
+--------------------------
+
+Copyright (c) 2025
+Authors: Abdullah Ahmad, Abdullah Bajwa
+
+Permission is hereby granted, free of charge, to any person using this software for personal and commercial purposes, subject to the following conditions:
+
+- The software **must not** be published, rebranded, or presented as research work by any other person or organization.
+- Any **modifications or forks** must credit the original authors and maintain references to **HuBiCEM**.
+- Any **derivative models** must mention **HuBiCEM** as their foundation.
+
+This software includes dependencies:
+- **pandas** (BSD-3-Clause License)
+- **numpy** (BSD-3-Clause License)
+- **scikit-learn** (BSD-3-Clause License)
+
+By using this software, you agree to these terms.
+
+--------------------------
