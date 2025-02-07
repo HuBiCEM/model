@@ -1,0 +1,68 @@
+Sprint Number,Task,Category,Developer,Expected Time (Hours),Actual Time (Hours),Performance Comment
+1,Project Setup & Planning,General,Abdullah Ahmad,10,12,Good
+1,Database Schema Design,Database,Muhammad Umer,15,18,Delayed
+1,Initial Frontend Setup,Frontend,Abdullah Bajwa,12,10,Excellent
+1,Backend API Architecture,Backend,Abdullah Ahmad,18,22,Delayed
+1,Research OpenAI Integration,AI/ML,Muhammad Saim,10,9,Good
+1,Setup CI/CD Pipeline,DevOps,Muhammad Saim,12,16,Needs Improvement
+1,Server Environment Configuration,Server,Abdullah Ahmad,14,13,Good
+1,UI Wireframing & Prototyping,Frontend,Abdullah Bajwa,8,7,Excellent
+1,Database Table Optimizations,Database,Muhammad Umer,10,12,Needs Improvement
+1,API Documentation,Backend,Abdullah Ahmad,8,9,Good
+1,Security Implementation for API,Backend,Muhammad Umer,12,15,Delayed
+1,Testing Initial Components,Testing,Abdullah Bajwa,8,9,Good
+1,Preliminary AI Research,AI/ML,Muhammad Saim,14,12,Good
+1,API Deployment,Backend,Abdullah Ahmad,10,11,Good
+1,Build Frontend Components,Frontend,Abdullah Bajwa,12,14,Needs Improvement
+1,Configure Web Hosting,Server,Abdullah Ahmad,10,9,Good
+1,Setup Dev Environment,General,Dilawar Jahangir,8,10,Delayed
+1,Prepare Design System,Frontend,Abdullah Bajwa,10,8,Excellent
+1,Research Raspberry Pi Setup,Hardware,Abdullah Ahmad,6,7,Good
+1,Analyze OpenAI API Limitations,AI/ML,Muhammad Saim,10,13,Needs Improvement
+1,Create Backend API Structure,Backend,Abdullah Ahmad,12,14,Delayed
+1,Setup Database Backup System,Database,Muhammad Umer,9,10,Good
+1,Run Initial Load Testing,Testing,Abdullah Bajwa,8,9,Good
+1,Implement Frontend Authentication,Frontend,Abdullah Bajwa,14,12,Excellent
+1,Discuss AI UX Flows,AI/ML,Muhammad Saim,10,8,Good
+1,Review API Response Time,Backend,Muhammad Umer,8,12,Delayed
+1,Setup Error Handling in API,Backend,Abdullah Ahmad,10,11,Good
+1,Frontend Performance Optimizations,Frontend,Abdullah Bajwa,12,14,Needs Improvement
+1,Deploy Initial Build,Server,Abdullah Ahmad,8,9,Good
+
+2,Develop Homepage UI,Frontend,Abdullah Bajwa,18,20,Delayed
+2,Setup Server Environment,Server,Abdullah Ahmad,15,14,Good
+2,Develop Basic Chatbot UI,Frontend,Muhammad Umer,12,11,Good
+2,Database Setup & Connection,Database,Muhammad Umer,14,16,Delayed
+2,OpenAI API Testing,AI/ML,Muhammad Saim,10,9,Good
+2,Enhance API Security,Backend,Abdullah Ahmad,12,15,Delayed
+2,Implement UI Animations,Frontend,Abdullah Bajwa,10,8,Excellent
+2,Prepare Backend Logging,Backend,Muhammad Umer,8,10,Needs Improvement
+2,Research AI Voice Processing,AI/ML,Muhammad Saim,12,13,Good
+2,Optimize Frontend Code,Frontend,Abdullah Bajwa,10,9,Good
+2,Deploy OpenAI Testing Server,AI/ML,Muhammad Saim,8,9,Good
+2,Write API Documentation,Backend,Abdullah Ahmad,10,11,Good
+
+3,Develop Visualizer Component,Frontend,Dilawar Jahangir,20,24,Delayed
+3,Integrate Basic ChatGPT API,AI/ML,Muhammad Saim,14,13,Good
+3,Develop Order Placement API,Backend,Abdullah Ahmad,18,20,Delayed
+3,Order Management Database,Database,Muhammad Umer,12,13,Good
+3,Test Frontend Components,Testing,Abdullah Bajwa,10,9,Good
+3,Develop Visualizer Backend,Backend,Abdullah Ahmad,14,16,Needs Improvement
+3,Enhance Frontend Performance,Frontend,Abdullah Bajwa,10,8,Excellent
+3,Fix Security Issues,Backend,Muhammad Umer,12,14,Delayed
+3,Build Responsive UI for Chat,Frontend,Dilawar Jahangir,10,12,Needs Improvement
+3,Develop API for Order Processing,Backend,Abdullah Ahmad,16,18,Delayed
+
+4,Enhance Chatbot UI with Animations,Frontend,Abdullah Bajwa,16,14,Good
+4,Develop API Integration for Orders,Backend,Abdullah Ahmad,18,22,Delayed
+4,AI Assistant Voice Recognition,AI/ML,Muhammad Saim,14,13,Good
+4,Implement Push-to-Talk Button,Frontend,Muhammad Umer,12,14,Needs Improvement
+4,Deploy on Test Server,Server,Abdullah Ahmad,10,9,Good
+4,Develop Kiosk UI,Frontend,Dilawar Jahangir,18,20,Delayed
+4,Integrate OpenAI with Real-Time Speech,AI/ML,Abdullah Faisal,14,13,Good
+4,Develop Social Media Chatbot,AI/ML,Muhammad Saim,12,10,Good
+4,Connect CRM API for Orders,Backend,Abdullah Ahmad,16,18,Delayed
+4,Setup Raspberry Pi Configurations,Hardware,Abdullah Ahmad,10,12,Needs Improvement
+4,Optimize AI Response Time,AI/ML,Muhammad Saim,10,8,Excellent
+4,Fix Order Processing Bugs,Backend,Muhammad Umer,12,15,Delayed
+4,Deploy AI Assistant in Sandbox,AI/ML,Muhammad Saim,14,13,Good

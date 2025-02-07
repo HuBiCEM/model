@@ -1,0 +1,90 @@
+Sprint Number,Task,Category,Developer,Expected Time (Hours)
+5,Develop Kiosk UI,Frontend,Dilawar Jahangir,18
+5,Integrate OpenAI with Real-Time Speech,AI/ML,Abdullah Faisal,14
+5,Develop Social Media Chatbot,AI/ML,Muhammad Saim,12
+5,Connect CRM API for Orders,Backend,Abdullah Ahmad,16
+5,Setup Raspberry Pi Configurations,Hardware,Abdullah Ahmad,10
+5,Enhance Push-to-Talk UI,Frontend,Muhammad Umer,12
+5,Create User Authentication Flow,Backend,Abdullah Ahmad,14
+5,Optimize Visualizer for Mobile,Frontend,Dilawar Jahangir,16
+5,Deploy AI Assistant to Beta Testers,AI/ML,Muhammad Saim,12
+5,Security Hardening for API,Backend,Muhammad Umer,14
+5,Test Kiosk Deployment Process,Testing,Abdullah Ahmad,10
+5,Run Load Testing for AI Assistant,Testing,Muhammad Saim,14
+
+6,Finalize Kiosk UI and Touchscreen Integration,Frontend,Dilawar Jahangir,16
+6,Enhance AI Speech Synthesis,AI/ML,Abdullah Faisal,14
+6,Fix CRM API Bugs and Optimize,Backend,Abdullah Ahmad,12
+6,Develop AI Chat Transcripts for Logging,AI/ML,Muhammad Saim,10
+6,Develop Social Media Auto-Response System,AI/ML,Muhammad Saim,12
+6,Order Status Page UI,Frontend,Muhammad Umer,10
+6,Database Performance Optimization,Database,Muhammad Umer,14
+6,Finalize User Registration System,Backend,Abdullah Ahmad,16
+6,Enhance Visualizer Animations,Frontend,Dilawar Jahangir,12
+6,AI Multi-language Support,AI/ML,Abdullah Faisal,14
+
+7,Develop Voice Command System,AI/ML,Muhammad Saim,18
+7,Implement Customer Support Chat System,Frontend,Muhammad Umer,14
+7,Build AI Assistant Personality Customization,AI/ML,Abdullah Faisal,12
+7,Enhance Social Media Chatbot Features,AI/ML,Muhammad Saim,10
+7,Develop Order Summary UI,Frontend,Abdullah Bajwa,10
+7,Develop Custom AI Voice Tones,AI/ML,Abdullah Faisal,16
+7,Optimize Database Query Speed,Database,Muhammad Umer,14
+7,Test AI Real-Time Order Processing,Testing,Muhammad Saim,14
+
+8,Enhance AI Face Animation,AI/ML,Abdullah Faisal,14
+8,Develop Embedded Version for Websites,Frontend,Abdullah Bajwa,12
+8,Optimize API Caching,Backend,Abdullah Ahmad,12
+8,Develop Kiosk Admin Dashboard,Frontend,Dilawar Jahangir,16
+8,Setup Logging and AI Error Tracking,AI/ML,Muhammad Saim,10
+8,Improve Frontend Performance,Frontend,Muhammad Umer,10
+8,Security Audit and Fix Vulnerabilities,Backend,Muhammad Ahmad,14
+8,Setup AI Conversational Context Memory,AI/ML,Abdullah Faisal,12
+
+9,Improve Order Processing AI Decision-Making,AI/ML,Muhammad Saim,14
+9,Develop Voice-Based Search for Car Parts,AI/ML,Abdullah Faisal,16
+9,Implement Frontend Dashboard for Order Review,Frontend,Dilawar Jahangir,12
+9,Integrate Payment Gateway UI,Frontend,Muhammad Umer,10
+9,Optimize AI Chat Delay Reduction,AI/ML,Abdullah Faisal,12
+9,Load Testing for High Traffic,Testing,Abdullah Ahmad,14
+9,Finalize Kiosk Deployment Strategy,Hardware,Abdullah Ahmad,10
+
+10,Develop AI Auto-Suggestions for Users,AI/ML,Muhammad Saim,14
+10,Implement Refund Processing Flow,Backend,Abdullah Ahmad,12
+10,Optimize Social Media Bot Responses,AI/ML,Muhammad Saim,10
+10,Test Payment Gateway Integration,Testing,Muhammad Umer,12
+10,Develop Analytics Dashboard for AI Interactions,Frontend,Dilawar Jahangir,14
+10,Fix Edge Cases in AI Response Handling,AI/ML,Abdullah Faisal,12
+
+11,Enhance Kiosk AI User Experience,Frontend,Dilawar Jahangir,14
+11,Improve Server Response Times,Backend,Abdullah Ahmad,12
+11,Enhance Product Recommendation AI,AI/ML,Muhammad Saim,14
+11,Develop AI-Generated Order Summaries,AI/ML,Abdullah Faisal,12
+11,Optimize Voice Recognition System,AI/ML,Muhammad Saim,10
+11,Build User Feedback System,Frontend,Muhammad Umer,10
+11,Setup Advanced Error Monitoring,Backend,Abdullah Ahmad,12
+
+12,Develop Multi-Store Integration,Backend,Abdullah Ahmad,16
+12,Enhance AI Conversational Flow,AI/ML,Abdullah Faisal,14
+12,Develop Advanced Frontend User Analytics,Frontend,Dilawar Jahangir,12
+12,Improve Social Media Chatbot UX,AI/ML,Muhammad Saim,12
+12,Build Custom AI Assistant Personality Presets,AI/ML,Abdullah Faisal,14
+12,Develop Automated Order Confirmation System,Backend,Muhammad Ahmad,12
+
+13,Develop Admin Panel for AI Assistant,Frontend,Dilawar Jahangir,16
+13,Enhance Kiosk AI with Advanced Gestures,AI/ML,Abdullah Faisal,14
+13,Build AI Smart Pricing Suggestions,AI/ML,Muhammad Saim,12
+13,Optimize AI Assistant for Mobile Use,AI/ML,Abdullah Faisal,14
+13,Develop AI Chatbot Export Reports,Frontend,Muhammad Umer,12
+
+14,Final AI Assistant Optimizations,AI/ML,Muhammad Saim,16
+14,Security Review & Compliance,Security,Abdullah Ahmad,12
+14,Performance Testing of AI Responses,Testing,Muhammad Saim,12
+14,Enhance Kiosk Speech Recognition,AI/ML,Abdullah Faisal,14
+14,Build AI-Powered User Recommendations,AI/ML,Muhammad Saim,14
+
+15,Final Deployment and Bug Fixes,Deployment,Abdullah Ahmad,14
+15,Train AI on Final Datasets,AI/ML,Abdullah Faisal,12
+15,Improve Social Media AI Chat Engagement,AI/ML,Muhammad Saim,12
+15,Final Security & Load Testing,Security,Abdullah Ahmad,14
+15,Launch AI Assistant Publicly,Deployment,Muhammad Saim,10
