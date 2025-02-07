@@ -183,6 +183,6 @@ See **[LICENSE](LICENSE)** for details.
 
 ## 👨‍💻 Contributors
 - **Abdullah Ahmad** ([@MAbdullahAhmad](https://github.com/MAbdullahAhmad))  
-- **Abdullah Bajwa** ([@abdullahbajwa](https://github.com/abdullahbajwa))
+- **Abdullah Bajwa** ([@Abdullah007bajwa](https://github.com/Abdullah007bajwa))
 
 💡 **Ideas?** Feel free to **open an issue** or **contribute!** 🚀
